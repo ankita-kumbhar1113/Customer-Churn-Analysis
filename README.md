@@ -48,7 +48,7 @@ Data Collection
 - Internet Service Analysis
 - Customer Segmentation
 
-📷 *Add Executive Overview Screenshot Here*
+📷 *https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%201-%20Executive%20Dashboard.png/*
 
 ---
 
