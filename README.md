@@ -27,23 +27,14 @@ A telecom company wants to understand:
 ---
 
 ## 📂 Project Workflow
-''' 
-Business Understanding
-        ↓
+
 Data Collection
-        ↓
-Data Cleaning (SQL & Python)
-        ↓
-Exploratory Data Analysis (Python)
-        ↓
-Data Visualization
-        ↓
-Power BI Dashboard Development
-        ↓
-Business Insights
-        ↓
-Business Recommendations
-'''
+→ Data Cleaning
+→ SQL Analysis
+→ Python EDA
+→ Power BI Dashboard
+→ Business Insights
+→ Business Recommendations
 
 ---
 
