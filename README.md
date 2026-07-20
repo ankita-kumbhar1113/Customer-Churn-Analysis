@@ -60,7 +60,7 @@ Data Collection
 - Tech Support Impact
 - Online Security Impact
 
-📷 *page 2- Customer Risk Analysis Dashboard.png*
+📷 *https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%202-%20Customer%20Risk%20Analysis%20Dashboard.png*
 
 ---
 
@@ -70,7 +70,7 @@ Data Collection
 - Retention Opportunities
 - Business Recommendations
 
-📷 *Add Customer Retention Strategy Screenshot Here*
+📷 *https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%203%20-Customer%20Retention%20Strategy.png*
 
 ---
 
