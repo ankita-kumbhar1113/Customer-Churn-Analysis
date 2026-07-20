@@ -60,7 +60,7 @@ Data Collection
 - Tech Support Impact
 - Online Security Impact
 
-📷 *Add Customer Risk Analysis Screenshot Here*
+📷 *page 2- Customer Risk Analysis Dashboard.png/*
 
 ---
 
