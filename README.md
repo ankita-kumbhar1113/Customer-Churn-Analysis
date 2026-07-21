@@ -48,7 +48,7 @@ Data Collection
 - Internet Service Analysis
 - Customer Segmentation
 
-📷 ![page 1](https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%201-%20Executive%20Dashboard.png/)
+![page 1](https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%201-%20Executive%20Dashboard.png/)
 
 ---
 
@@ -60,7 +60,7 @@ Data Collection
 - Tech Support Impact
 - Online Security Impact
 
-📷 *https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%202-%20Customer%20Risk%20Analysis%20Dashboard.png*
+![Page 2](https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%202-%20Customer%20Risk%20Analysis%20Dashboard.png)
 
 ---
 
@@ -70,7 +70,7 @@ Data Collection
 - Retention Opportunities
 - Business Recommendations
 
-📷 *https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%203%20-Customer%20Retention%20Strategy.png*
+![Page 3](https://github.com/ankita-kumbhar1113/Customer-Churn-Analysis/blob/main/page%203%20-Customer%20Retention%20Strategy.png)
 
 ---
 
